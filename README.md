@@ -61,8 +61,8 @@ function my_findalldomains() {
 }
 ```
 #### Step 4 : Save The Code
-> cntrl + x <br/>
-> then type 'Y' and then <kbd>Enter</kbd>
+> <kbd>cntrl</kbd><kbd>+</kbd><kbd>x</kbd> <br/>
+> then type <kbd>Y</kbd> and then <kbd>Enter</kbd>
 
 #### Step 5 : Source Command
 ```
