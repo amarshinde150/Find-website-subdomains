@@ -1,4 +1,4 @@
-# Finding Sub-domains Of A Website In Kali Linux
+# Finding Active Sub-domains Of A Website In Kali Linux
 The "Finding Sub-domains of a Website in Kali Linux" tool is a powerful command-line utility that leverages Kali Linux's robust set of tools to efficiently discover and enumerate sub-domains associated with a target website, providing valuable insights for security assessments and penetration testing.
 ## Setup
 #### Step 1 : Open Terminal And Install Following Tools
